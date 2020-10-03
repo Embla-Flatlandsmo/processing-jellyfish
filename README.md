@@ -7,8 +7,10 @@
 
 ## Preview
 
-![Jellyfish.PNG](https://github.com/Embla-Flatlandsmo/processingjellyfish/blob/master/Jellyfish.PNG)
+![](https://github.com/Embla-Flatlandsmo/processing-jellyfish/blob/master/Jellyfish.PNG)
+
+
 
 After exporting the image and doing some more illustration work around it, I created the following illustration. Here, the tentacles are from this project, but I redrew the head!
 
-![Example of use](https://github.com/Embla-Flatlandsmo/processingjellyfish/blob/master/example_of_use.png)
+![](https://github.com/Embla-Flatlandsmo/processing-jellyfish/blob/master/example_of_use.png)
